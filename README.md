@@ -2,7 +2,7 @@
 ### Download Expo on your mobile
 ### Follow this [link](https://expo.io/@lkf/frontendresandco)
 
-![gif demo](https://gfycat.com/tightpoliteasianelephant)
+![](ezgif.com-video-to-gif.gif)
 
 Final project of LeRéacteur bootcamp of 2 weeks in a group of 5 persons, during which we developed a MVP (version 1) for the startup Res&Co that fight food waste in restaurants. They are currently deploying the v1 to test the market in Paris and hopefully raise investments.
 
